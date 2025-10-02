@@ -1,0 +1,5 @@
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.csproj.CoreCompileInputs.cache
