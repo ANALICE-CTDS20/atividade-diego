@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\bin\Debug\net7.0\ATIVIDADE 10.exe
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\bin\Debug\net7.0\ATIVIDADE 10.deps.json
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\bin\Debug\net7.0\ATIVIDADE 10.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\bin\Debug\net7.0\ATIVIDADE 10.dll
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\bin\Debug\net7.0\ATIVIDADE 10.pdb
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.dll
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\refint\ATIVIDADE 10.dll
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.pdb
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ATIVIDADE 10.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\ATIVIDADE 10\obj\Debug\net7.0\ref\ATIVIDADE 10.dll
